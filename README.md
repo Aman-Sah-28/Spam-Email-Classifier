@@ -95,5 +95,5 @@ Among the models used, **SVM performed better than Naive Bayes** for this datase
 
 
 ## 👤 Author
-**Aman Sah**
+**Aman Sah** /n
 Intern at Codec Technologies
