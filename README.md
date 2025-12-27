@@ -15,6 +15,7 @@ The goal of this project is to **automatically classify emails** based on their 
 ## 📂 Dataset
 
 * Email dataset containing **email text (subject + body)** and labels.
+* Link: https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset
 * Labels:
 
   * `1` → Spam
@@ -23,6 +24,7 @@ The goal of this project is to **automatically classify emails** based on their 
 
   * Missing values
   * Mixed label formats (text and numeric)
+ 
 
 ---
 
